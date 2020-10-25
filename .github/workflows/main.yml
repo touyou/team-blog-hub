@@ -1,4 +1,4 @@
-name: weekly episode deployment
+name: everyday vercel deployment
 
 on:
   schedule:
